@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+    color: white;
+}
+.container{
+    margin: 10% 30%;
+    display: flex;
+    text-align: center;
+    transform: scale(1.5);
+}
+.tim{
+    flex:2;
+}
+.btn{
+    text-align: center;
+}
+button{
+    padding: 1em 5em;
+    background-color: rgb(255, 255, 255);
+    border-radius: 1em;
+    transform: scale(1.5);
+    font-size: large;
+}
+button:hover{
+    border: 5px solid rgb(0, 153, 255);
+    transform: scale(1.7);
+}
+h1{
+    font-size: 3em;
+}
