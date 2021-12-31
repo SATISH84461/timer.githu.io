@@ -2,7 +2,7 @@
 
 Simple Timer
 
-Link :- 
+Link :- https://satish84461.github.io/timer.github.io/
 
 Just Click on the start button to start the timer and the it uses Date.time() function to get time.
 
